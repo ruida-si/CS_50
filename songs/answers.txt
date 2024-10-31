@@ -1,0 +1,15 @@
++-------------+-------------------+--------------+
+| AVG(energy) | AVG(danceability) | AVG(valence) |
++-------------+-------------------+--------------+
+| 0.65906     | 0.71646           | 0.484443     |
++-------------+-------------------+--------------+
+
+1. Based on the table on the top and the 100 songs this person likes:
+I would say this person is happy and like dancing.
+It´s on a positive mood.
+
+2. As the table reflects the "mood" of the listener's songs, not his
+own personal mood.
+I would suggest asking this questions to the person himself, rating 1-9,
+being 9 the best mood, for example.
+Asking about his energy, his willing to dance and how positive he feels.
